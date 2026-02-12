@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CO-4](https://github.com/user-attachments/assets/f6f03966-93ce-4973-b6d6-1d73ec1b6c0d)
 
 ## 🥁 CarnaCode 2026 - Desafio 16 - Iterator
 
